@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-engine-2d/static/css/main.e6c13ad2.css",
+    "main.js": "/game-engine-2d/static/js/main.f777ab15.js",
+    "static/js/787.d3464b60.chunk.js": "/game-engine-2d/static/js/787.d3464b60.chunk.js",
+    "index.html": "/game-engine-2d/index.html",
+    "main.e6c13ad2.css.map": "/game-engine-2d/static/css/main.e6c13ad2.css.map",
+    "main.f777ab15.js.map": "/game-engine-2d/static/js/main.f777ab15.js.map",
+    "787.d3464b60.chunk.js.map": "/game-engine-2d/static/js/787.d3464b60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f777ab15.js"
+  ]
+}
